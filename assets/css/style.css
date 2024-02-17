@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-size: cover;
+}
+h4 {
+    margin-bottom : 10px;
+    color:black;
+    text-align:left ;
+}
+h2 {
+    color:#008CBA;
+}
+h5 {
+    color: black;
+    text-align: left;
+}
+ 
+p {
+    color:black;
+    font-size: 20px;
+    text-align:justify;
+}
+
+input {
+    padding: 5px;
+    margin-right: 7px;
+    width: 25%;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;   
+}
+button:hover {
+    background-color: #008CBA; 
+    color: white; 
+  }
+
+
+
+label {
+    color:darkslategrey
+}
+#output {
+    color:darkslategrey
+}
